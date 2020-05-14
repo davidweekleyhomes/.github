@@ -1,4 +1,4 @@
-## .github
+# .github
 
 This repo contains Github action templates.
 
