@@ -1,7 +1,7 @@
 _Describe the contents of the PR, how to manually test it, and provide examples/mockups/screenshots that help provide context._
 
 - [ ] I have manually tested the code
-- [ ] The PR name and description contain the primary ticket number (most often user story/bug) - AB#1234
+- [ ] The PR name and description contain the primary ticket number (most often user story/bug) - AB#XXXX
 - [ ] All of the relevant commits contain the primary ticket number 
 - [ ] The PR name and/or relevant commits contain the specific task ticket number, if applicable
 - [ ] The code follows the style guidelines of this project
