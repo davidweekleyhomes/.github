@@ -12,4 +12,4 @@ _Describe the contents of the PR, how to manually test it, and provide examples/
 - [ ] The function and variable names are consistent, clear, and spelled correctly
 - [ ] I have confirmed the code meets the Acceptance Criteria
 - [ ] I have updated the ticket status
-- [ ] The PR's source branch is based on the head of the target branch
+- [ ] The PR's source branch is based on the current head of the target branch
