@@ -7,7 +7,7 @@ _Describe the contents of the PR, how to manually test it, and provide examples/
 - [ ] The code follows the style guidelines of this project
 - [ ] I have performed a self-review of the code
 - [ ] I have made corresponding changes to the documentation, or there is no related documentation
-- [ ] All automated tests pass
+- [ ] I have run all automated tests, and they passed
 - [ ] I have added tests that prove the fix is effective or that the feature works, or the project does not support testing in this area
 - [ ] The function and variable names are consistent, clear, and spelled correctly
 - [ ] I have confirmed the code meets the Acceptance Criteria
