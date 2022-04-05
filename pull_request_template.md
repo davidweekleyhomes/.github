@@ -5,4 +5,5 @@ _Describe the contents of the PR, how to manually test it, and provide examples/
 - [ ] I have performed a self-review of the code
 - [ ] I have considered adding automated tests, and added or intentionally did not
 - [ ] I have updated the ticket state, if applicable
+- [ ] I have updated the ticket deployment info, if applicable
 - [ ] I have added feature flags, wherever applicable
